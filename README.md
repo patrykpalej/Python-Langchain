@@ -23,3 +23,4 @@ export OPENAI_API_KEY
 ### Done
 - [x] `01_langchain_init`
 - [x] `02_langchain_format`
+- [x] `04_tiktoken`
