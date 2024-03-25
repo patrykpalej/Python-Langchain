@@ -14,3 +14,7 @@ Experimental approach.
 
 ### Langchain tutorials
 - https://www.youtube.com/watch?v=ekpnVh-l3YA&list=PL4HikwTaYE0GEs7lvlYJQcvKhq0QZGRVn
+
+### Done
+- [x] `01_langchain_init`
+- [x] `02_langchain_format`
