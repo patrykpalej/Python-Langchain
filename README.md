@@ -31,3 +31,4 @@ export OPENAI_API_KEY
 - [x] `09_context`
 - [x] `10_switching`
 - [x] `11_docs`
+- [x] `12_web`
