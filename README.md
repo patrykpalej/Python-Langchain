@@ -26,3 +26,8 @@ export OPENAI_API_KEY
 - [x] `04_tiktoken`
 - [x] `05_conversation`
 - [x] `06_external`
+- [x] `07_output`
+- [x] `08_cot`
+- [x] `09_context`
+- [x] `10_switching`
+- [x] `11_docs`
