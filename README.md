@@ -32,3 +32,6 @@ export OPENAI_API_KEY
 - [x] `10_switching`
 - [x] `11_docs`
 - [x] `12_web`
+- [x] `13_functions`
+- [x] `14_agent`
+- [x] `15_tasks`
