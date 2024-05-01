@@ -35,3 +35,6 @@ export OPENAI_API_KEY
 - [x] `13_functions`
 - [x] `14_agent`
 - [x] `15_tasks`
+- [x] `17_tree`
+- [x] `18_knowledge`
+
