@@ -37,4 +37,5 @@ export OPENAI_API_KEY
 - [x] `15_tasks`
 - [x] `17_tree`
 - [x] `18_knowledge`
+- [x] `20_catch`
 
